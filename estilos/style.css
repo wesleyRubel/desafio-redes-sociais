@@ -65,3 +65,9 @@ section#redes-sociais img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.575);
     transition: transform 0.5s, border 2s;
 }
+
+@media screen and (max-width:500px) {
+    section#telefone{
+        transform: translate(-80%, -50%);
+    }    
+}
