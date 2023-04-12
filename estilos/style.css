@@ -68,6 +68,6 @@ section#redes-sociais img:hover{
 
 @media screen and (max-width:500px) {
     section#telefone{
-        transform: translate(-70%, -50%);
+        transform: translate(-60%, -50%);
     }    
 }
